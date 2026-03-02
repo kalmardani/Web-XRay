@@ -1,0 +1,5 @@
+{
+  "name": "Web X-Ray",
+  "description": "A web inspector tool to extract media, view source code, and clean webpages by removing scripts and overlays.",
+  "requestFramePermissions": []
+}
